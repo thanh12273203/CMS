@@ -1,1 +1,2 @@
-Purva Chaudhari - End-to-End Deep Learning Reconstruction for CMS Experiment
+# RecoE2E
+End-to-end ML-based CMS particle reconstruction and tagging.
